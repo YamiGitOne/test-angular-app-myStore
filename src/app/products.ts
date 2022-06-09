@@ -10,22 +10,21 @@ export const products = [
     id: 1,
     name: 'Phone XL',
     price: 999,
-    description: 'A large phone with one of the best pantallas'
+    description: 'Un teléfono grande con una de las mejores pantallas',
   },
   {
     id: 2,
     name: 'Phone Mini',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Un gran teléfono con una de las mejores cámaras.',
   },
   {
     id: 3,
     name: 'Phone Standard',
     price: 299,
-    description: ''
-  }
+    description: 'Un teléfono con el mejor tamaño.',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
